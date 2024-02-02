@@ -1,11 +1,9 @@
 ### Hi there 👋, I'm Tasin
 ![](https://i.imgur.com/SQXDeat.jpg)
 
-- 👋 **Hello World!** I’m Md. Tasin Alam, a final-year Computer Science student at Daffodil International University in Dhaka, Bangladesh, ready to dive into the professional world of web development.
+- 👋 **Hello World!** I’m Md. Tasin Alam, A CSE graduate from Daffodil International University, is a proactive DevOps Engineer. Passionate about optimizing workflows and enhancing system reliability, I thrive on continuous learning and collaboration within the tech community.
 
-- 🚀 **Actively Seeking Opportunities:** Currently exploring job opportunities, I've built a robust foundation in the MERN stack. Engaged in a dynamic Health and Wellness Tracker project, I'm sharpening my skills in MongoDB, Mongoose, Express.js, React.js, Next.js, and Node.js.
-
-- 🌟 **Passion for Innovation:** As graduation nears, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
+- 🌟 **Passion for Innovation:**  My goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
 
 - 🎓 **MERN Stack Specialist:** Proficient in the MERN stack, I specialize in crafting immersive user experiences through clean and efficient JavaScript code.
 
